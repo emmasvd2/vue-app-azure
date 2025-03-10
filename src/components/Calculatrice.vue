@@ -65,7 +65,7 @@ const handleClick = (value) => {
             <div class="ligne">
                 <BoutonCal value="/" @send-value="handleClick"/>
                 <BoutonCal value="*" @send-value="handleClick"/>
-                <BoutonCal value="C" @send-value="handleClick"/>
+                <BoutonCal value="A" @send-value="handleClick"/>
             </div>
             <div class="ligne">
                 <BoutonCal value="9" @send-value="handleClick"/>
